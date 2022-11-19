@@ -8,12 +8,6 @@
 
     height: 80px;
 
-
-    /* Inside auto layout */
-
-    flex: none;
-    order: 0;
-    flex-grow: 1;
 }
 
 .logo {
@@ -117,7 +111,6 @@ body {
 
     height: 60px;
 
-    /* Text xl/Normal */
 
     font-family: 'Inter';
     font-style: normal;
@@ -126,16 +119,9 @@ body {
     line-height: 30px;
     justify-content: center;
 
-    /* Gray/500 */
-
     color: #667085;
 
 
-    /* Inside auto layout */
-
-    flex: auto;
-    order: 1;
-    flex-grow: 0;
 }
 
 .box {
@@ -151,11 +137,7 @@ body {
 
 
 
-    /* Inside auto layout */
-
-    flex: none;
-    order: 0;
-    flex-grow: 0;
+  
 }
 
 .section2 {
@@ -178,7 +160,6 @@ body {
 
     height: 296px;
 
-    /* Gray/50 */
 
     background: #F9FAFB;
 }
@@ -207,7 +188,6 @@ body {
     margin: auto;
     width: fit-content;
 
-    /* Gray/500 */
 
     color: #667085;
 
